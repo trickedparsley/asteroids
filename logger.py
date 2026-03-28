@@ -117,7 +117,7 @@ def log_state():
 
 def log_event(event_type, **details):
     global _event_log_initialized
-pygame.version.ver
+    pygame.version.ver
     now = datetime.now()
 
     event = {
