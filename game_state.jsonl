@@ -1,13 +1,5 @@
-{"timestamp": "20:42:14.660", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "20:42:15.628", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "20:42:16.594", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "20:42:17.562", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "20:42:18.527", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "20:42:19.498", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "20:42:20.469", "elapsed_s": 7, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "20:42:21.436", "elapsed_s": 8, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "20:42:22.402", "elapsed_s": 9, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "20:42:23.369", "elapsed_s": 10, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "20:42:24.331", "elapsed_s": 10, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "20:42:25.300", "elapsed_s": 11, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "20:42:26.267", "elapsed_s": 12, "frame": 780, "screen_size": [1280, 720]}
+{"timestamp": "21:14:53.587", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "pp": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "21:14:54.554", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "pp": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "21:14:55.518", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "pp": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "21:14:56.488", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "pp": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "21:14:57.452", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720], "pp": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
