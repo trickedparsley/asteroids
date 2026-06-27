@@ -6,10 +6,7 @@ from constants import *
 class Player(CircleShape):
     def __init__(self, x, y):
         # we will be using this later
-        if hasattr(self, "containers"):
-            super().__init__(self.containers, PLAYER_RADIUS)
-        else:
-            super().__init__(x, y, PLAYER_RADIUS)
+        super().__init__(x, y, PLAYER_RADIUS)
         
         self.rotation = 0
         self.position = pygame.Vector2(x, y)
