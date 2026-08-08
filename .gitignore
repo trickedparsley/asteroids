@@ -1,3 +1,4 @@
 .pyc
 __pycache__
 game_state
+game_events.jsonl

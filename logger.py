@@ -3,6 +3,8 @@ import json
 import math
 from datetime import datetime
 
+import pygame
+
 __all__ = ["log_state", "log_event"]
 
 _FPS = 60
