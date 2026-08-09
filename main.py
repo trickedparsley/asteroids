@@ -5,6 +5,7 @@ from logger import log_state, log_event
 from circleshape import *
 from player import *
 from asteroidfield import *
+from shot import *
 def main():
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
     print(f"Screen width: {SCREEN_WIDTH}\nScreen height: {SCREEN_HEIGHT}")
@@ -15,8 +16,10 @@ def main():
     updatable = pygame.sprite.Group()
     drawable = pygame.sprite.Group()
     asteroids = pygame.sprite.Group()
+    shots = pygame.sprite.Group()
     Player.containers = (updatable, drawable)
     Asteroid.containers = (asteroids, updatable, drawable)
+    Shot.containers = (shots, drawable, updatable)
     AsteroidField.containers = (updatable)
     af = AsteroidField()
     pp = Player(SCREEN_WIDTH/2, SCREEN_HEIGHT/2)
